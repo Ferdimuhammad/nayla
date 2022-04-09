@@ -3,25 +3,26 @@ let info = `
 ┏━━°❀❬ *INFO* ❭❀°━━┓
 ┃
 ┃> Bot Recoded By :
-┃• Zevano
+┃• FERDI HASAN
 ┃
 ┃> Bot Dibuat Dengan :
-┃• JavaScript via NodeJS
+┃• JavaScript via NodeJS/USE HP 
 ┃• FFmpeg
 ┃• ImageMagick
 ┃
 ┃> Thanks To :
 ┃• Nurutomo
 ┃• Zevano
-┃• RC047/Kuhong
+┃• WARD |ME)
+┃• NAYLA 
 ┃
 ┣━━°❀❬ *DONASI* ❭❀°━━┓
-┣➥ *TRI:* [089520306297]
-┣➥ *Dana:* [08818770766]
-┣➥ *Gopay:* [08818770766]
-┣➥ *LinkAja:* [08818770766]
+┣➥ *TRI:* [089687890508]
+┣➥ *Dana:* [089687890502]
+┣➥ *indosat:* [089687890508]
+┣➥ *LinkAja:* [blom bkin ]
 ┃ 「 *Chat OWNER* 」
-┃ > *INGIN DOANSI ? https://wa.me/628818770766*
+┃ > *INGIN DOANSI ? https://wa.me/6289687890508*
 ┗━━━━━━━━━━━━━━━━
 `.trim()
 
