@@ -2,7 +2,7 @@ let handler = async m => m.reply(`
 ❀━━━━━[ Rules ]━━━━━❀
 📘 Semua yang di katakan owner adalah mutlak
 
-📃¹ Dilarang Call/Vid Call Bot langsung di banned jika tidak sengaja hubungi owner
+📃¹ Dilarang Call/Vid Call Bot langsung di banned jika tidak sengaja hubungi ? Samperin Banh🗿🚬
 📃² Dilarang spam chat/command/button/clickbutton apalagi spam RPG g ngotak, jika ada yg melakukan nya akan di warn oleh owner
 📃³ Dilarang mengirim virus/virtex dan semacam nya akan langsung di warn
 📃⁴ Dilarang Send request/report main"
