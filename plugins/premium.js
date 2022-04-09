@@ -13,11 +13,11 @@ let info = `
 │ > Harga :
 │• 10K / Weekly (Mingguan)
 │• 20K / Monthly (Bulanan)
-│• 50K / VIP (Permanen)
+│• 50K / VIP (Permanen) CLOSE
 │
 │ > Pembayaran :
-│• DANA : 08818770766
-│• TRI : 089520306297
+│• DANA : 089687890502
+│• TRI : 089687890508
 ╰────
 `.trim()
 
