@@ -63,8 +63,8 @@ let handler = async (m, { conn, usedPrefix }) => {
 ┣➥ *Vhtear*
 ┣➥ *Nurutomo*
 ┣➥ *Layscode*
-┣➥ *Zeks*
-┣➥ *Dll
+┣➥ *nayla*
+┣➥ *WarD*
 ┗━━━━━━━━━━━━━━━━
 `.trim()
     let mentionedJid = [who]
