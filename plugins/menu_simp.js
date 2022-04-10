@@ -244,7 +244,7 @@ let tags = {
 
     let before = conn.menu.before || `
 Hello %name
-Im *NayLaBotz* And You Use 
+Im *WarDBotz* And You Use 
 
 ❏ Ｉｎｆｏ Ｂｏｔ
 ▷ Bot Name : *${conn.getName(conn.user.jid)}*
@@ -360,9 +360,9 @@ Im *NayLaBotz* And You Use
 
                     mediaUrl: 'https://youtu.be/-tKVN2mAKRI',
 
-                    title: 'CREATED BY ZEVANO',
+                    title: 'CREATED BY FERDI',
 
-                    body: 'NayLa-B0TZ',
+                    body: 'WarD-B0TZ',
 
                     thumbnail: await(await fetch(global.thum)).buffer()
 
