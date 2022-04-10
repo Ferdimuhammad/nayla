@@ -49,7 +49,7 @@ conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
 
                                         "title": "Group Official",
 
-                                        "description": "\nOfficial gc Dari NayLa-B0TZ",
+                                        "description": "\nOfficial gc Dari WarD B0TZ",
 
                                         "rowId": ".gcbot"
 
@@ -145,7 +145,7 @@ conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
 
                                         "title": "DewasaMenu",
 
-                                        "description": "\nBuat yg ..... bisa di coba",
+                                        "description": "\nTOBAT BANH",
 
                                         "rowId": ".dewasamenu"
 
@@ -467,7 +467,7 @@ conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
 
                                         "title": "InfoMenu",
 
-                                        "description": "\nMengetahui info dari NayLa-B0TZ",
+                                        "description": "\nMengetahui info dari WarD-B0TZ",
 
                                         "rowId": ".infomenu"
 
@@ -485,7 +485,7 @@ conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
 
                                         "title": `Owner`,
 
-                                        "description": "\nPemilik NayLa-B0TZ",
+                                        "description": "\nPemilik FERDI ....",
 
                                         "rowId": ".owner"
 
