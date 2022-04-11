@@ -1,12 +1,12 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
 Tutorial Buat Bot WA:
-Credit: *~NayLaBotz*
+Credit: *~WarDBotz*
 
 Download dulu apk ny
-1) Termux
-2) QuickEditor
-3) ZarAchiver
+1) -
+2) -
+3) -
 
 Sc kalian pindah in ke /storage/emulated/0
 setelah itu
@@ -14,13 +14,14 @@ setelah itu
 Ketik di *[TERMUX]*
 1) $ apt update
 2) $ apt upgrade
-3) $ pkg install ffmpeg
-4) $ pkg install imagemagick
-5) $ pkg install nodejs
-6) $ pkg install bash
-7) $ pkg install git
+3) $ pkg install 
+4) $ pkg install 
+5) $ pkg install 
+6) $ pkg install 
+7) $ pkg install 
 
-Untuk SC Nya..
+Untuk SC Nya BELI :D HARGA ? MURAH CHAT AJ
+WA.ME/6289687890508
 Cari sendiri :v
 8) $ termux-setup-storage
 9) $ cd /sdcard/(nama folder sc ny)
